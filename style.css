@@ -782,10 +782,13 @@ section {
     }
 
     .about .row .about-content .about-content-tabs .about-content-text {
-        top: 200px;
         position: static;
+        padding: 25px 0 0 0;    
     }
 
+    .about .row .about-content .about-content-tabs .about-content-text .skill-item h3 {
+        font-size: 1.3rem;
+    }
 
     .contact .e-mail-location {
         text-align: center;
